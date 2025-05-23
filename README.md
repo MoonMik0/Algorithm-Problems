@@ -56,6 +56,12 @@ pip install matplotlib numpy pandas
   2. Constraint Satisfaction Problem: A CSP model is built where each node is assigned a color, and the algorithm ensures no adjacent nodes share the same color.
   3. Graph Plotting: The resulting colored graph is visualized using NetworkX, where nodes are displayed with their assigned colors.
   4. Execution Time and Solution: For each dataset, the algorithm prints the number of colors used, graphical output and the execution time.
+  <img src="https://github.com/user-attachments/assets/dcf27b75-2048-4968-b00d-775d92d7476f" width=400>
+  <img src="https://github.com/user-attachments/assets/f30e2f4a-0591-475e-8ec6-429ee670809e" width=400>
+  <img src="https://github.com/user-attachments/assets/457412be-b617-4e6d-aa2f-b21d46a6e0b2" width=400>
+  <img src="https://github.com/user-attachments/assets/a51efbf7-eb76-4860-865b-3b185c56e24f" width=400>
+  <img src="https://github.com/user-attachments/assets/fd781eaf-3fd6-40eb-88de-46f32cab0fae" width=400>
+  <img src="https://github.com/user-attachments/assets/e9ded3d2-75ff-46e3-be76-011331e9435c" width=400>
 ----
 ## Knapsack Problem (C#)
 - Description: This C# implementation solves the 0/1 Knapsack Problem using Dynamic Programming. The goal is to select a subset of items with given values and weights such that the total weight does not exceed the knapsack's capacity, while maximizing the total value.
